@@ -161,7 +161,7 @@ n1:a3g
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Chemie 2024 - Verbindliche inhaltliche Aspekte"@de;
+	dct:title "Bildungsstandards Chemie MSA 2024 - Verbindliche inhaltliche Aspekte"@de;
 	dct:description """Die Liste verbindlicher inhaltlicher Aspekte dient dazu, einen einheitlichen Grundstock an Inhalten und Konzepten zu benennen, an denen die in den Bildungsstandards für das Fach Chemie definierten Kompetenzen erlernt und überprüft werden können. Da die Basiskonzepte des Fachs Chemie in allen Kompetenzbereichen bedeutsam sind, wurden sie zur Strukturierung der verbindlichen inhaltlichen Aspekte gewählt. Die Liste der inhaltlichen Aspekte ist bewusst auf einem mittleren Grad der Detailliertheit formuliert, so dass Aufgaben zur Überprüfung der Bildungsstandards ableitbar sind. Mit den aufgeführten inhaltlichen Aspekten ist dabei immer der einfachste Fall gemeint; landesspezifische Ergänzungen und Präzisierungen können vorgenommen werden."""@de;
 	skos:hasTopConcept
 		n1:x3u,

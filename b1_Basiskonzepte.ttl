@@ -122,7 +122,7 @@ n1:v4q
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Chemie 2024 - Basiskonzepte"@de;
+	dct:title "Bildungsstandards Chemie MSA 2024 - Basiskonzepte"@de;
 	dct:description """Der Beschreibung von chemischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Chemie ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.
 
 Das Fach Chemie ist im Besonderen durch die Beschreibung des Aufbaus und der Eigenschaften von Stoffen, ihren Reaktionen sowie energetischer Zusammenhänge gekennzeichnet, woraus die folgenden drei Basiskonzepte resultieren."""@de;
