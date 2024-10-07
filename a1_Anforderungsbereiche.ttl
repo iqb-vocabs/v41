@@ -29,8 +29,7 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Chemie MSA 2024 - Anforderungsbereiche"@de;
-	dct:description "Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche
-unterschieden:"@de;
+	dct:description "Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche unterschieden:"@de;
 	skos:hasTopConcept
 		n1:v3s,
 		n1:a7s,
